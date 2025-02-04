@@ -14,7 +14,7 @@ landing:
   start: Créer mon CV
   feats:
     - title: Simple et Puissant
-      items: Gérer plusieurs CV en même temps<br>Aperçu en temps réel<br>Entièrement personnalisable<br>Exportation sous PDF<br>Choisissez vos polices et icônes<br>Et bien<a href="https://github.com/Renovamen/oh-my-cv#features" target="_blank">d'autres fonctionnalités </a>
+      items: Gérer plusieurs CV à la fois<br>Aperçu en temps réel<br>Entièrement personnalisable<br>Exportation sous PDF<br>Choisissez vos polices et icônes<br>Et bien<a href="https://github.com/Renovamen/oh-my-cv#features" target="_blank">d'autres fonctionnalités </a>
     - title: Respect de votre vie privée
       items: Open-source et gratuit<br>Toutes les données sont stockées en local<br>Pas besoin de s'inscrire ni de se connecter<br>Pas de traçage des utilisateurs<br>Sans publicité
 

@@ -44,7 +44,7 @@ toolbar:
       title: Exportation PDF
       alert:
         title: Prudence!
-        content: Lorsque vous imprimer sous Windows, selectionnez bien "Enregistrer vers PDFF" dans les réglages de la fenêtre d'impression, <b>not</b> "Microsoft Print to PDF".
+        content: Lorsque vous imprimer sous Windows, selectionnez bien "Enregistrer vers PDFF" dans les réglages de la fenêtre d'impression, <b>ne pas choisir</b> "Microsoft Print to PDF".
     export_md: Exportation Markdown
   correct_case:
     title: Corriger la casse
